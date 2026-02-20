@@ -1,2 +1,1 @@
-# bugray52.
-.
+# bugray52..
